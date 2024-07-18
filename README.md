@@ -70,22 +70,6 @@ The AI Orchestration Framework (AIOF) is an open-source project designed to easi
 3. **Data Processing:** Manage AI agents for tasks such as data collection, cleaning, analysis, and visualization.
 4. **Content Creation:** Coordinate AI agents for generating, translating, and proofreading content.
 
-#### **Getting Started:**
-1. **Repository Setup:**
-   - Initialize a GitHub repository with the project structure.
-   - Set up continuous integration and deployment pipelines.
-
-2. **Core Development:**
-   - Develop the core components (Agent Manager, Task Scheduler, etc.).
-   - Implement basic agent registration and function calling features.
-
-3. **Documentation:**
-   - Create comprehensive documentation for setup, usage, and contribution guidelines.
-   - Develop tutorials and examples to help users get started.
-
-4. **Community Building:**
-   - Launch a community forum or Discord server for discussions and support.
-   - Encourage contributions through issues, feature requests, and pull requests.
 
 #### **Conclusion:**
 The AI Orchestration Framework (AIOF) aims to solve some of the biggest core problems with AI agent workflows. Allowing developers to easily manage and coordinate multiple AI agents to build sophisticated, multi-agent systems. By providing a unified interface, robust function calling, and seamless orchestration.

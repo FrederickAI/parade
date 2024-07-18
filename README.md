@@ -48,6 +48,7 @@ The AI Orchestration Framework (AIOF) is an open-source project designed to easi
 8. **Security and Access Control:**
    - Ensure secure communication between AI agents.
    - Implement access control mechanisms to protect sensitive functions and data.
+9. **AI Model Manager**: Easy integration with open source and cloud AI models.
 
 #### **Architecture:**
 

@@ -50,6 +50,9 @@ The AI Orchestration Framework (AIOF) is an open-source project designed to easi
    - Implement access control mechanisms to protect sensitive functions and data.
 
 #### **Architecture:**
+
+![Project Logo](images/orchestration-1.png)
+
 1. **Core Components:**
    - **Agent Manager:** Handles registration, monitoring, and lifecycle management of AI agents.
    - **Task Scheduler:** Orchestrates tasks and manages dependencies between them.
